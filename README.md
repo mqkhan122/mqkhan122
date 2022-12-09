@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mqkhan122
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Django
 -  📫 How to reach me you can directly mail me on mqasimkhan122@gmail.com
 
 <!---
